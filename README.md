@@ -17,7 +17,6 @@ vue2.0 + element-ui 仿美团周边游
 
 "element-ui": "^2.4.5"  样式库
 
-具体请参考 [https://github.com/jwhuang59/vue-element-traveling/blob/master/package.json](https://github.com/jwhuang59/vue-element-traveling/blob/master/package.json)
 
 #### 安装与运行
 
