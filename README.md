@@ -1,5 +1,5 @@
-## vue-element-traveling
-vue2.0 + element-ui 仿美团周边游  访问：[https://jwhuang59.github.io/vue-element-traveling](https://jwhuang59.github.io/vue-element-traveling)
+## vue-demo
+vue2.0 + element-ui 仿美团周边游  
 
 #### 效果截图
 
