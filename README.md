@@ -1,9 +1,5 @@
 ## vue-demo
-vue2.0 + element-ui 仿美团周边游  
-
-#### 效果截图
-
-<img src="https://github.com/jwhuang59/vue-element-traveling/blob/master/static/img/main.jpg" width="280">  <img src="https://github.com/jwhuang59/vue-element-traveling/blob/master/static/img/city.jpg" width="280">  <img src="https://github.com/jwhuang59/vue-element-traveling/blob/master/static/img/type1.jpg" width="280">  <img src="https://github.com/jwhuang59/vue-element-traveling/blob/master/static/img/type2.jpg" width="280">  <img src="https://github.com/jwhuang59/vue-element-traveling/blob/master/static/img/detail.jpg" width="280">
+vue2.0 + element-ui   
 
 #### 项目依赖版本
 
